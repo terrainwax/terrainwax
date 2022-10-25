@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terrainwax" alt="terrainwax" /> </p>  
   
-- 🔭 I’m currently working on [Paladium](https://paladium-pvp.fr/)  
+- 🔭 I’m currently working at Voodoo
   
 - 🌱 I’m currently learning **IT at Epitech**  
   
