@@ -6,7 +6,7 @@
   
 - 🔭 I’m currently working at Voodoo
   
-- 🌱 I’m currently learning **IT at Epitech**  
+- 🌱 I've been graduated from **Epitech**  
   
 - 💬 Ask me about **React, Vue, Java, OpenGL**  
   
